@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace BelloExtenders
+namespace BelloExtenders.Types
 {
     public static partial class ExtensionMethods
     {

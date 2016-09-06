@@ -44,9 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="String.ToSnakeCase.cs" />
-    <Compile Include="Type.GetTypeByName.cs" />
-    <Compile Include="Type.IsSimpleType.cs" />
+    <Compile Include="Strings\String.ToCobolCase.cs" />
+    <Compile Include="Strings\String.ToMacroCase.cs" />
+    <Compile Include="Strings\String.ToPascalCase.cs" />
+    <Compile Include="Strings\String.ToSnakeCase.cs" />
+    <Compile Include="Strings\StringCase.cs" />
+    <Compile Include="Types\Type.GetTypeByName.cs" />
+    <Compile Include="Types\Type.IsSimpleType.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BelloExtenders.nuspec" />

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace BelloExtenders
+namespace BelloExtenders.Strings
 {
     public static partial class ExtensionMethods
     {
